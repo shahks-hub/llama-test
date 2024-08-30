@@ -18,7 +18,7 @@
 ## Updating the API URL
 
 1. **Start the Virtual Machine**
-   - Start your virtual machine (VM).
+   - Start the paused virtual machine (VM) on google cloud.
 
 2. **Copy the External API URL**
    - Once the VM is running, obtain the external IP address.
